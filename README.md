@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @MarcossHT, "Marcos Pires"
-- 👀 I’m interested in learn about web development
-- 🌱 I’m currently learning javaScrip, nodeJS, HTML and other things about web development
-- 📫 How to reach me: Email "mppiress@gmail.com"
-
+-Sou apaixonado por tecnologia e computação, atualmente estudo programação e desenvolvimento web.
+Até o momento já criei aplicações com as seguintes tecnologias: NodeJS, JavaScript, React, Bootstrap, HTML , CSS, JQuery, Git e Webpack.
 <!---
 MarcossHT/MarcossHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
